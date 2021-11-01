@@ -1,4 +1,4 @@
-# Game-2048
+# Game 2048
 
 ## This is game 2048 created with moudle of python tkinter and OOP.
 
