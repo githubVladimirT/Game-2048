@@ -28,6 +28,3 @@ git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python
 ```sh
 git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python Game2048.py
 ```
-
-### In file "[Board.py]("https://github.com/githubVladimirT/Game-2048/blob/main/Board.py")" located class "Board", wich draw the board.
-### In file [Game.py]("https://github.com/githubVladimirT/Game-2048/blob/main/Game.py")  located class "Game", wich responsible of the game logic.
