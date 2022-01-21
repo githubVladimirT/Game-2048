@@ -6,8 +6,7 @@
 
 ## Way 1
 ```bash
-chmod +x setup.sh
-./setup.sh
+make
 ```
 
 ## Way 2
@@ -23,11 +22,11 @@ pip install tkinter
 
 ### If you have python version 3.x.x:
 ```sh
-git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python3 Game2048.py 
+git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python3 Game2048.py
 ```
 ### Else run:
 ```sh
-git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python Game2048.py 
+git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python Game2048.py
 ```
 
 ### In file "[Board.py]("https://github.com/githubVladimirT/Game-2048/blob/main/Board.py")" located class "Board", wich draw the board.
