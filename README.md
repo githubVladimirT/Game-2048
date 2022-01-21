@@ -5,8 +5,10 @@
 ### I am witing there how to start this app.
 
 ## Way 1
+```bash
 chmod +x setup.sh
 ./setup.sh
+```
 
 ## Way 2
 ### Before start app you need install moudle tkinter:
