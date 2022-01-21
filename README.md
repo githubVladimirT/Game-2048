@@ -2,8 +2,13 @@
 
 ## This is game 2048 created with moudle of python tkinter and OOP.
 
-### This game build on classes. For start this game run:
+### I am witing there how to start this app.
 
+## Way 1
+chmod +x setup.sh
+./setup.sh
+
+## Way 2
 ### Before start app you need install moudle tkinter:
 ### For python 3.x.x run:
 ```bash
@@ -22,7 +27,6 @@ git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python
 ```sh
 git clone https://github.com/githubVladimirT/Game-2048.git; cd Game-2048; python Game2048.py 
 ```
-
 
 ### In file "[Board.py]("https://github.com/githubVladimirT/Game-2048/blob/main/Board.py")" located class "Board", wich draw the board.
 ### In file [Game.py]("https://github.com/githubVladimirT/Game-2048/blob/main/Game.py")  located class "Game", wich responsible of the game logic.
