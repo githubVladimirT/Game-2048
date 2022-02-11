@@ -2,7 +2,7 @@
 
 ## This is game 2048 created with moudle of python tkinter and OOP.
 
-### I am witing there how to start this app.
+### I am written there how to start this app.
 
 ## Way 1
 ```bash
