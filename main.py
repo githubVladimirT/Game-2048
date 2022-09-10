@@ -9,3 +9,4 @@ def main(panel):
 if __name__ == "__main__":
     gamepanel = Board.Board()
     main(gamepanel)
+
